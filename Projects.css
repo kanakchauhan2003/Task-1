@@ -1,0 +1,41 @@
+
+body {
+    background-image: url("img_tree.gif"), url("paper.gif");
+    background-repeat: no-repeat, repeat;
+    
+  }
+  
+
+.Projectslogo{
+    font-style: sans-serif;
+    color: rgb(0, 0, 0);
+    text-shadow: 2px 2px 4px #ffffff;
+    padding-left: 2%;
+    font-size: 16px;
+}
+img{  
+  float: right;
+  border-style: solid;
+  margin-top: 10%;
+  
+}
+p{
+  text-align: left;
+ 
+
+  
+}
+
+section {
+  font-size: 18px;
+  padding-left: 15%;
+  padding-right: 15%;
+  margin-top: 4%;
+
+  
+}
+.img2{
+  border-color: #ffffff;
+  margin-top: 5%;
+  border-color: #ffffff;
+}
